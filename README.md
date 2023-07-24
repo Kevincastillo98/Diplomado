@@ -9,7 +9,7 @@ $ git clone https://github.com/Kevincastillo98/Diplomado
 ```bash
   $ cd Diplomado
 ```
-3. Asegurarse de tener instalado docker dentro del equipo, en caso de no estar instalado, seguir los pasos detallados en la [Documentación oficial] (https://docs.docker.com/engine/install/ubuntu/)
+3. Asegurarse de tener instalado docker dentro del equipo, en caso de no estar instalado, seguir los pasos detallados en la [Documentación oficial](https://docs.docker.com/engine/install/ubuntu/)
 
 4. Creación de la imagen:
 ```bash
