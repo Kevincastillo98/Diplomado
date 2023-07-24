@@ -6,9 +6,9 @@ El siguiente repositorio forma parte del examen referente al tema de docker
 $ git clone https://github.com/Kevincastillo98/Diplomado
 ```
 2. Abrir el directorio **Diplomado**
-   ```bash
+```bash
   $ cd Diplomado
-   ```
+```
 3. Asegurarse de tener instalado docker dentro del equipo, en caso de no estar instalado, seguir los pasos detallados en la [Documentación oficial] (https://docs.docker.com/engine/install/ubuntu/)
 
 4. Creación de la imagen:
