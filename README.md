@@ -28,3 +28,4 @@ $ docker run -d -p 8080:80 -p 2222:22 kevincastillo/diplomado:v1
    ```bash
    ssh webuser@127.0.0.1 -p 22222
    ```
+**La contraseña de acceso se encuentra en el archivo PDF de la entrega realizada**
